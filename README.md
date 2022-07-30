@@ -38,6 +38,7 @@
 | [Spring Boot + vue 校园二手交易平台 带文档-项目启动不了]()   |                                                              |                                                              |
 | [Spring Boot 会议室预约管理系统（系统简单）](F:\毕业设计\会议室预约系统\conference_room-master) |                                                              |                                                              |
 | [Spring Boot  在线考试系统](https://gitee.com/ynwynw/carRental-public) | https://gitee.com/ynwynw/exam-public                         | https://github.com/ynwynw/exam-public                        |
+| [springboot俱乐部管理系统（简单系统）](F:\毕业设计\俱乐部系统\clubmanagement-master) |                                                              |                                                              |
 | [ssm 汽车租赁管理系统](https://gitee.com/ynwynw/carRental-public) | https://gitee.com/ynwynw/carRental-public                    | [https://github.com/ynwynw/carRental-public](https://gitee.com/ynwynw/carRental-public) |
 | [ssm 教务管理系统](F:\毕业设计\教务管理系统\oa.zip)          |                                                              |                                                              |
 | [ssm在线测试与论文管理系统](https://gitee.com/ynwynw/pms-public) | https://gitee.com/ynwynw/pms-public                          | [https://github.com/ynwynw/pms-public](https://gitee.com/ynwynw/pms-public) |
@@ -46,6 +47,8 @@
 | [ssm 小区物业管理系统](https://gitee.com/ynwynw/estate-public) | https://gitee.com/ynwynw/estate-public                       | [https://github.com/ynwynw/estate-public](https://gitee.com/ynwynw/estate-public) |
 | [ssm 宿舍管理系统](F:\毕业设计\宿舍管理系统\ssm\DormitoryManager-master) |                                                              |                                                              |
 | [ssm 校园点餐系统](https://gitee.com/ynwynw/orderFood-public) | https://gitee.com/ynwynw/orderFood-public                    | [https://github.com/ynwynw/orderFood-public](https://gitee.com/ynwynw/orderFood-public) |
+| [ssm 车辆管理系统(带报告)](https://gitee.com/ynwynw/pms-public) | https://gitee.com/ynwynw/carclub-public                      | https://github.com/ynwynw/carclub-public                     |
+| [ssm 个人记账管理系统](https://gitee.com/ynwynw/webike-public) | https://gitee.com/ynwynw/finance-public                      | https://github.com/ynwynw/finance-public                     |
 | [JSP + Servlet 学生信息管理系统（带报告）](F:\毕业设计\学生管理系统) |                                                              |                                                              |
 
 **需要完整代码可以加qq 931708230 或者加微信 ynwwxid**
