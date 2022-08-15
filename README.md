@@ -39,6 +39,7 @@
 | [Spring Boot 会议室预约管理系统（系统简单）](F:\毕业设计\会议室预约系统\conference_room-master) |                                                              |                                                              |
 | [Spring Boot  在线考试系统](https://gitee.com/ynwynw/carRental-public) | https://gitee.com/ynwynw/exam-public                         | https://github.com/ynwynw/exam-public                        |
 | [springboot俱乐部管理系统（简单系统）](F:\毕业设计\俱乐部系统\clubmanagement-master) |                                                              |                                                              |
+| [springboot 个人博客管理系统](https://gitee.com/ynwynw/Springboot-Blog-public) | https://gitee.com/ynwynw/Springboot-Blog-public              | https://github.com/ynwynw/Springboot-Blog-public             |
 | [ssm 汽车租赁管理系统](https://gitee.com/ynwynw/carRental-public) | https://gitee.com/ynwynw/carRental-public                    | [https://github.com/ynwynw/carRental-public](https://gitee.com/ynwynw/carRental-public) |
 | [ssm 教务管理系统](F:\毕业设计\教务管理系统\oa.zip)          |                                                              |                                                              |
 | [ssm在线测试与论文管理系统](https://gitee.com/ynwynw/pms-public) | https://gitee.com/ynwynw/pms-public                          | [https://github.com/ynwynw/pms-public](https://gitee.com/ynwynw/pms-public) |
@@ -50,6 +51,7 @@
 | [ssm 车辆管理系统(带报告)](https://gitee.com/ynwynw/pms-public) | https://gitee.com/ynwynw/carclub-public                      | https://github.com/ynwynw/carclub-public                     |
 | [ssm 个人记账管理系统](https://gitee.com/ynwynw/webike-public) | https://gitee.com/ynwynw/finance-public                      | https://github.com/ynwynw/finance-public                     |
 | [JSP + Servlet 学生信息管理系统（带报告）](F:\毕业设计\学生管理系统) |                                                              |                                                              |
+| [ssm 景区旅游管理系统（带报告）](F:\毕业设计\景区旅游系统\TravelJava-master) | F:\毕业设计\景区旅游系统\TravelJava-master                   | F:\毕业设计\景区旅游系统\TravelJava-master                   |
 
 **需要完整代码可以加qq 931708230 或者加微信 ynwwxid**
 
