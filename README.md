@@ -43,6 +43,8 @@
 | [SpringBoot+vue的民宿预定管理系统](https://gitee.com/ynwynw/mingsu-public) | https://gitee.com/ynwynw/mingsu-public                       | https://github.com/ynwynw/mingsu-public                      |
 | [springboot 疫情信息管理系统](https://gitee.com/ynwynw/CoronavirusManage-public) | https://gitee.com/ynwynw/CoronavirusManage-public            | https://github.com/ynwynw/CoronavirusManage-public           |
 | [springboot 微信公众号早安推送（情侣浪漫礼物）](https://gitee.com/ynwynw/weixinPush-public) | https://gitee.com/ynwynw/weixinPush-public                   | https://github.com/ynwynw/weixinPush-public                  |
+| [springboot+vue 校园疫情信息管理系统](https://gitee.com/ynwynw/SchoolEpidemicManage-public) | https://gitee.com/ynwynw/SchoolEpidemicManage-public         | https://github.com/ynwynw/SchoolEpidemicManage-public        |
+| [springboot 酒店预订管理系统](https://gitee.com/ynwynw/hotelSystem-public) | https://gitee.com/ynwynw/hotelSystem-public                  | https://github.com/ynwynw/hotelSystem-public                 |
 | [ssm 汽车租赁管理系统](https://gitee.com/ynwynw/carRental-public) | https://gitee.com/ynwynw/carRental-public                    | [https://github.com/ynwynw/carRental-public](https://gitee.com/ynwynw/carRental-public) |
 | [ssm 教务管理系统](E:\educationProject\教务管理系统\oa.zip)  |                                                              |                                                              |
 | [ssm在线测试与论文管理系统](https://gitee.com/ynwynw/pms-public) | https://gitee.com/ynwynw/pms-public                          | [https://github.com/ynwynw/pms-public](https://gitee.com/ynwynw/pms-public) |
@@ -57,6 +59,7 @@
 | [ssm 景区旅游管理系统（带报告）](E:\educationProject\景区旅游系统\TravelJava-master) | E:\educationProject\景区旅游系统\TravelJava-master           | E:\educationProject\景区旅游系统\TravelJava-master           |
 | [ssm 蛋糕商城系统](https://gitee.com/ynwynw/cakeShop-public) | https://gitee.com/ynwynw/cakeShop-public                     | https://github.com/ynwynw/cakeShop-public                    |
 | [servlet 蛋糕商城系统](https://gitee.com/ynwynw/cakeShop-Jdbc-public) | https://gitee.com/ynwynw/cakeShop-Jdbc-public                | https://github.com/ynwynw/cakeShop-Jdbc-public               |
+| [servlet 图书商城系统](https://gitee.com/ynwynw/bookShop-public) | https://gitee.com/ynwynw/bookShop-public                     | https://github.com/ynwynw/bookShop-public                    |
 
 **需要完整代码可以加qq 931708230 或者加微信 ynwwxid**
 
