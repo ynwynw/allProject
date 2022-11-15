@@ -49,6 +49,8 @@
 | [基于Springboot+vue的校园二手交易和交流论坛系统(源代码+数据库)039](https://github.com/ynwynw/stuSecond-public) | https://github.com/ynwynw/stuSecond-public                   |
 | [基于Springboot的动漫论坛系统(源代码+数据库+ppt文档)040](https://github.com/ynwynw/cartoonForum-public) | https://github.com/ynwynw/cartoonForum-public                |
 | [基于springboot+vue的心理咨询系统(源代码+数据库)041](https://github.com/ynwynw/psychlolgyhealth-public) | https://github.com/ynwynw/psychlolgyhealth-public            |
+| [基于springboot的房屋租赁系统(源代码+数据库)042](https://github.com/ynwynw/houserent2-public) | https://github.com/ynwynw/houserent2-public                  |
+| [基于SpringBoot的健身房管理系统(源代码+数据库)043](https://github.com/ynwynw/gym-public) | https://github.com/ynwynw/gym-public                         |
 | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | [https://github.com/ynwynw/carRental-public](https://github.com/ynwynw/carRental-public) |
 | [ssm 教务管理系统](E:\educationProject\教务管理系统\oa.zip)  |                                                              |
 | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | [https://github.com/ynwynw/pms-public](https://github.com/ynwynw/pms-public) |
