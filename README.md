@@ -51,6 +51,7 @@
 | [基于springboot+vue的心理咨询系统(源代码+数据库)041](https://github.com/ynwynw/psychlolgyhealth-public) | https://github.com/ynwynw/psychlolgyhealth-public            |
 | [基于springboot的房屋租赁系统(源代码+数据库)042](https://github.com/ynwynw/houserent2-public) | https://github.com/ynwynw/houserent2-public                  |
 | [基于SpringBoot的健身房管理系统(源代码+数据库)043](https://github.com/ynwynw/gym-public) | https://github.com/ynwynw/gym-public                         |
+| [基于Springboot+vue的图书管理系统(源代码+数据库)044](https://github.com/ynwynw/bookmanage2-public) | https://github.com/ynwynw/bookmanage2-public                 |
 | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | [https://github.com/ynwynw/carRental-public](https://github.com/ynwynw/carRental-public) |
 | [ssm 教务管理系统](E:\educationProject\教务管理系统\oa.zip)  |                                                              |
 | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | [https://github.com/ynwynw/pms-public](https://github.com/ynwynw/pms-public) |
@@ -66,6 +67,7 @@
 | [ssm 蛋糕商城系统](https://github.com/ynwynw/cakeShop-public) | https://github.com/ynwynw/cakeShop-public                    |
 | [servlet 蛋糕商城系统](https://github.com/ynwynw/cakeShop-Jdbc-public) | https://github.com/ynwynw/cakeShop-Jdbc-public               |
 | [servlet 图书商城系统](https://github.com/ynwynw/bookShop-public) | https://github.com/ynwynw/bookShop-public                    |
+| [基于ssm的电影购票系统(源代码+数据库)618](https://github.com/ynwynw/movie-puchase-public) | https://github.com/ynwynw/movie-puchase-public               |
 
 需要完整代码可以加qq 931708230 或者加微信 ynwwxid
 
