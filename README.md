@@ -52,6 +52,7 @@
 | [基于springboot的房屋租赁系统(源代码+数据库)042](https://github.com/ynwynw/houserent2-public) | https://github.com/ynwynw/houserent2-public                  |
 | [基于SpringBoot的健身房管理系统(源代码+数据库)043](https://github.com/ynwynw/gym-public) | https://github.com/ynwynw/gym-public                         |
 | [基于Springboot+vue的图书管理系统(源代码+数据库)044](https://github.com/ynwynw/bookmanage2-public) | https://github.com/ynwynw/bookmanage2-public                 |
+| [基于Springboot+vue的音乐系统(源代码+数据库)045](https://github.com/ynwynw/music-server-public) | https://github.com/ynwynw/music-server-public                |
 | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | [https://github.com/ynwynw/carRental-public](https://github.com/ynwynw/carRental-public) |
 | [ssm 教务管理系统](E:\educationProject\教务管理系统\oa.zip)  |                                                              |
 | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | [https://github.com/ynwynw/pms-public](https://github.com/ynwynw/pms-public) |
