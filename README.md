@@ -78,6 +78,7 @@
 | 618  | [基于ssm的电影购票系统(源代码+数据库)](https://github.com/ynwynw/movie-puchase-public) | https://github.com/ynwynw/movie-puchase-public               |
 | 619  | [基于ssm的宠物领养系统(源代码+数据库)](https://github.com/ynwynw/adopt-public) | https://github.com/ynwynw/adopt-public                       |
 | 620  | ssm 房屋租赁管理系统 （简单）                                |                                                              |
+| 621  | [ssm+vue 公廉租房维保系统（源代码+数据库+10000字文档）](https://github.com/ynwynw/houseRepair-public) | https://github.com/ynwynw/houseRepair-public                 |
 
 需要完整代码可以加qq 931708230 或者加微信 ynwwxid
 
