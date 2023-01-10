@@ -25,7 +25,7 @@
 | 019  | [springboot 教务管理系统（带报告）](https://github.com/ynwynw/edumanage-public) | https://github.com/ynwynw/edumanage-public                   |
 | 020  | [springboot 教务管理系统](https://github.com/ynwynw/edumanage2-public) | https://github.com/ynwynw/edumanage2-public                  |
 | 021  | [springboot 仓库管理系统](https://github.com/ynwynw/wareHouse-public) | https://github.com/ynwynw/wareHouse-public                   |
-| 022  | [springboot 宿舍管理系统](https://github.com/ynwynw/domitory-public) | https://github.com/ynwynw/domitory-public                    |
+| 022  | [springboot 宿舍管理系统(源代码+数据库+6000字文档)](https://github.com/ynwynw/domitory-public) | https://github.com/ynwynw/domitory-public                    |
 | 023  | [springboot 宿舍管理系统(功能简单)](E:/\educationProject\宿舍管理系统\dorm_system-master) |                                                              |
 | 024  | [springboot+vue 宿舍管理系统（功能简单）](E:/\educationProject\宿舍管理系统\vue\DormAdmin-master) |                                                              |
 | 025  | [springboot+vue 电影票会员管理系统 （有文档）](https://github.com/ynwynw/cinema-public) | https://github.com/ynwynw/cinema-public                      |
@@ -57,6 +57,7 @@
 | 051  | springboot 登山俱乐部系统（简单）                            |                                                              |
 | 052  | 基于springboot的智慧校园（简单）                             |                                                              |
 | 053  | springboot 新闻发布系统简单                                  |                                                              |
+| 054  | [基于Springboot+vue的人事管理系统(源代码+数据库+8000字文档)](https://github.com/ynwynw/hrm-public) | https://github.com/ynwynw/hrm-public                         |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
