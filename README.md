@@ -58,6 +58,10 @@
 | 052  | 基于springboot的智慧校园（简单）                             |                                                              |
 | 053  | springboot 新闻发布系统简单                                  |                                                              |
 | 054  | [基于Springboot+vue的人事管理系统(源代码+数据库+8000字文档)](https://github.com/ynwynw/hrm-public) | https://github.com/ynwynw/hrm-public                         |
+| 055  | [基于Springboot的社区论坛系统(源代码+数据库)](https://github.com/ynwynw/forum-public) | https://github.com/ynwynw/forum-public                       |
+| 056  | [基于Springboot+vue的小米商城系统(源代码+数据库)](https://github.com/ynwynw/xiaomiMall-public) | https://github.com/ynwynw/xiaomiMall-public                  |
+| 057  | [基于Springboot+vue的电影购票系统(源代码+数据库)](https://github.com/ynwynw/movie-puchase2-public) | https://github.com/ynwynw/movie-puchase2-public              |
+| 058  | [基于Springboot+vue的汽车租赁系统(源代码+数据库)](https://github.com/ynwynw/carrental-vue-public) | https://github.com/ynwynw/carrental-vue-public               |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
