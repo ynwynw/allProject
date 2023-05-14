@@ -1,6 +1,8 @@
 需要完整代码可以加qq 931708230 或者加微信 ynwwxid
 
-需要完整代码可以加qq 931708230 或者加微信 ynwwxid
+接毕业设计和论文
+
+
 
 | 序号 | 项目                                                         | github地址                                                   |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -62,6 +64,10 @@
 | 056  | [基于Springboot+vue的小米商城系统(源代码+数据库)](https://github.com/ynwynw/xiaomiMall-public) | https://github.com/ynwynw/xiaomiMall-public                  |
 | 057  | [基于Springboot+vue的电影购票系统(源代码+数据库)](https://github.com/ynwynw/movie-puchase2-public) | https://github.com/ynwynw/movie-puchase2-public              |
 | 058  | [基于Springboot+vue的汽车租赁系统(源代码+数据库)](https://github.com/ynwynw/carrental-vue-public) | https://github.com/ynwynw/carrental-vue-public               |
+| 059  | [基于Springboot+vue的美食分享系统(源代码+数据库)](https://github.com/ynwynw/deliciousFoodPublic) | https://github.com/ynwynw/deliciousFoodPublic                |
+| 070  | [基于springboot+vue的心理咨询系统(源代码+数据库+13000字文档)](https://github.com/ynwynw/psychlolgyCounselPublic) | https://github.com/ynwynw/psychlolgyCounselPublic            |
+| 071  | [基于springboot+vue的房屋租赁系统(源代码+数据库)](https://github.com/ynwynw/houserentVuePublic) | https://github.com/ynwynw/houserentVuePublic                 |
+|      |                                                              |                                                              |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
@@ -83,6 +89,8 @@
 | 619  | [基于ssm的宠物领养系统(源代码+数据库)](https://github.com/ynwynw/adopt-public) | https://github.com/ynwynw/adopt-public                       |
 | 620  | ssm 房屋租赁管理系统 （简单）                                |                                                              |
 | 621  | [ssm+vue 公廉租房维保系统（源代码+数据库+10000字文档）](https://github.com/ynwynw/houseRepair-public) | https://github.com/ynwynw/houseRepair-public                 |
+| 622  | [ssm 高校就业系统（源代码+数据库）](https://github.com/ynwynw/graduateEmployssmPublic) | https://github.com/ynwynw/graduateEmployssmPublic            |
+| 623  | [ssm 智能停车场（源代码+数据库）](https://github.com/ynwynw/parkssmPublic) | https://github.com/ynwynw/parkssmPublic                      |
 
 需要完整代码可以加qq 931708230 或者加微信 ynwwxid
 
