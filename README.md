@@ -18,7 +18,7 @@
 | 010  | [springboot 花店商城系统(带文档)](https://github.com/ynwynw/SpringbootSchoolShop-public) | https://github.com/ynwynw/SpringbootSchoolShop-public        |
 | 011  | [springboot景区旅游系统](https://github.com/ynwynw/travel)   | https://github.com/ynwynw/travel-public                      |
 | 012  | [springboot电影购票系统](https://github.com/ynwynw/Movie-Ticket-Purchasing-public) | https://github.com/ynwynw/Movie-Ticket-Purchasing-public     |
-| 013  | [springboot网上商城(12000字文)](https://github.com/ynwynw/mall-public) | https://github.com/ynwynw/mall-public                        |
+| 013  | [springboot网上商城(12000字文档)](https://github.com/ynwynw/mall-public) | https://github.com/ynwynw/mall-public                        |
 | 014  | [springboot网上商城-仿小米](https://github.com/ynwynw/starsea-mall-public) | https://github.com/ynwynw/starsea-mall-public                |
 | 015  | [springboot网上商城-仿天猫](https://github.com/ynwynw/tmall-public) | https://github.com/ynwynw/tmall-public                       |
 | 016  | [springboot+vue图书管理系统](https://github.com/ynwynw/bookManage-public) | https://github.com/ynwynw/bookManage-public                  |
@@ -78,8 +78,11 @@
 | 070  | [基于springboot+vue的心理咨询系统(源代码+数据库+13000字文档)](https://github.com/ynwynw/psychlolgyCounselPublic) | https://github.com/ynwynw/psychlolgyCounselPublic            |
 | 071  | [基于springboot+vue的房屋租赁系统(源代码+数据库)](https://github.com/ynwynw/houserentVuePublic) | https://github.com/ynwynw/houserentVuePublic                 |
 | 072  | [基于springboot+vue的酒店预订管理系统(源代码+数据库)](https://github.com/ynwynw/hotelVuePublic) | https://github.com/ynwynw/hotelVuePublic                     |
+| 073  | 基于springboot+vue的网上商城 (源代码+数据库)可改为任意产品的商城 |                                                              |
 | 074  | [基于springboot的酒店管理系统(源代码+数据库)](https://github.com/ynwynw/hotelPublic) | https://github.com/ynwynw/hotelPublic                        |
 | 075  | [基于springboot+vue的酒店管理系统(源代码+数据库)](https://github.com/ynwynw/hotel2VuePublic) | https://github.com/ynwynw/hotel2VuePublic                    |
+| 076  | [基于springboot的超市管理系统(源代码+数据库+10000字文档)](https://github.com/ynwynw/supermarket2Public) | https://github.com/ynwynw/supermarket2Public                 |
+| 077  | [基于springboot的医院门诊挂号系统(源代码+数据库+9000字文档)](https://github.com/ynwynw/hospital2Public) | https://github.com/ynwynw/hospital2Public                    |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
