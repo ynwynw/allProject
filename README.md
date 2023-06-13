@@ -73,7 +73,7 @@
 | 065  | 基于springboot+vue高校文档系统(源代码+数据库+报告)           |                                                              |
 | 066  | 基于springboot+vue医院hrp系统(源代码+数据库+16000字报告)     |                                                              |
 | 067  | [基于springboot+vue校园点餐(源代码+数据库)](https://github.com/ynwynw/orderFood2Public) | https://github.com/ynwynw/orderFood2Public                   |
-| 068  | 基于springboot+vue图书馆座位预约(源代码+数据库)              |                                                              |
+| 068  | [基于springboot+vue图书馆座位预约(源代码+数据库)](https://github.com/ynwynw/seatAppointPublic) | https://github.com/ynwynw/seatAppointPublic                  |
 | 069  | 基于springboot+vue小区物业(源代码+数据库)                    |                                                              |
 | 070  | [基于springboot+vue的心理咨询系统(源代码+数据库+13000字文档)](https://github.com/ynwynw/psychlolgyCounselPublic) | https://github.com/ynwynw/psychlolgyCounselPublic            |
 | 071  | [基于springboot+vue的房屋租赁系统(源代码+数据库)](https://github.com/ynwynw/houserentVuePublic) | https://github.com/ynwynw/houserentVuePublic                 |
@@ -83,6 +83,7 @@
 | 075  | [基于springboot+vue的酒店管理系统(源代码+数据库)](https://github.com/ynwynw/hotel2VuePublic) | https://github.com/ynwynw/hotel2VuePublic                    |
 | 076  | [基于springboot的超市管理系统(源代码+数据库+10000字文档)](https://github.com/ynwynw/supermarket2Public) | https://github.com/ynwynw/supermarket2Public                 |
 | 077  | [基于springboot的医院门诊挂号系统(源代码+数据库+9000字文档)](https://github.com/ynwynw/hospital2Public) | https://github.com/ynwynw/hospital2Public                    |
+| 078  | [基于springboot的校园二手交易系统(源代码+数据库+11000字报告)](https://github.com/ynwynw/campusMarketPublic) | https://github.com/ynwynw/campusMarketPublic                 |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
