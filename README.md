@@ -72,7 +72,7 @@
 | 064  | 基于springboot+vue房屋中介系统(源代码+数据库+14000字文档)    |                                                              |
 | 065  | 基于springboot+vue高校文档系统(源代码+数据库+报告)           |                                                              |
 | 066  | 基于springboot+vue医院hrp系统(源代码+数据库+16000字报告)     |                                                              |
-| 067  | 基于springboot+vue校园点餐(源代码+数据库)                    |                                                              |
+| 067  | [基于springboot+vue校园点餐(源代码+数据库)](https://github.com/ynwynw/orderFood2Public) | https://github.com/ynwynw/orderFood2Public                   |
 | 068  | 基于springboot+vue图书馆座位预约(源代码+数据库)              |                                                              |
 | 069  | 基于springboot+vue小区物业(源代码+数据库)                    |                                                              |
 | 070  | [基于springboot+vue的心理咨询系统(源代码+数据库+13000字文档)](https://github.com/ynwynw/psychlolgyCounselPublic) | https://github.com/ynwynw/psychlolgyCounselPublic            |
@@ -109,7 +109,7 @@
 | 624  | ssm超市管理系统（源代码+数据库）                             |                                                              |
 | 625  | ssm文物收藏（源代码+数据库+13000字文档）                     |                                                              |
 | 626  | [基于ssm+vue的医院门诊病历系统（源代码+数据库）](https://github.com/ynwynw/hospitalPublic) | https://github.com/ynwynw/hospitalPublic                     |
-| 627  | ssm+vue民宿预订（源代码+数据库）                             |                                                              |
+| 627  | [ssm+vue民宿预订（源代码+数据库）](https://github.com/ynwynw/minsussmPublic) | https://github.com/ynwynw/minsussmPublic                     |
 | 628  | 首饰商城（源代码+数据库+带6000字报告）                       |                                                              |
 | 629  | [ssm大学生校园兼职（源代码+数据库）](https://github.com/ynwynw/moonlightingPublic) | https://github.com/ynwynw/moonlightingPublic                 |
 | 630  | [ssm网上花店(源代码+数据库+12000字文档+ppt)](https://github.com/ynwynw/flowerShopSsmPublic) | https://github.com/ynwynw/flowerShopSsmPublic                |
