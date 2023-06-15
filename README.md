@@ -84,6 +84,7 @@
 | 076  | [基于springboot的超市管理系统(源代码+数据库+10000字文档)](https://github.com/ynwynw/supermarket2Public) | https://github.com/ynwynw/supermarket2Public                 |
 | 077  | [基于springboot的医院门诊挂号系统(源代码+数据库+9000字文档)](https://github.com/ynwynw/hospital2Public) | https://github.com/ynwynw/hospital2Public                    |
 | 078  | [基于springboot的校园二手交易系统(源代码+数据库+11000字报告)](https://github.com/ynwynw/campusMarketPublic) | https://github.com/ynwynw/campusMarketPublic                 |
+| 079  | [基于springboot+vue的在线考试系统(源代码+数据库+7700字文档)](https://github.com/ynwynw/examOnlinePublic) | https://github.com/ynwynw/examOnlinePublic                   |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
@@ -109,7 +110,7 @@
 | 623  | [ssm 智能停车场（源代码+数据库+11000字文档+ppt）](https://github.com/ynwynw/parkssmPublic) | https://github.com/ynwynw/parkssmPublic                      |
 | 624  | ssm超市管理系统（源代码+数据库）                             |                                                              |
 | 625  | ssm文物收藏（源代码+数据库+13000字文档）                     |                                                              |
-| 626  | [基于ssm+vue的医院门诊病历系统（源代码+数据库）](https://github.com/ynwynw/hospitalPublic) | https://github.com/ynwynw/hospitalPublic                     |
+| 626  | [基于ssm+vue的医院门诊病历系统（源代码+数据库+11000字文档）](https://github.com/ynwynw/hospitalPublic) | https://github.com/ynwynw/hospitalPublic                     |
 | 627  | [ssm+vue民宿预订（源代码+数据库）](https://github.com/ynwynw/minsussmPublic) | https://github.com/ynwynw/minsussmPublic                     |
 | 628  | 首饰商城（源代码+数据库+带6000字报告）                       |                                                              |
 | 629  | [ssm大学生校园兼职（源代码+数据库）](https://github.com/ynwynw/moonlightingPublic) | https://github.com/ynwynw/moonlightingPublic                 |
