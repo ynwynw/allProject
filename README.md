@@ -38,7 +38,7 @@
 | 030  | [Spring Boot +vue在线考试系统(源码+数据库+12000字文档)](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/exam-public                        |
 | 031  | [springboot俱乐部管理系统（简单系统）](E:/\educationProject\俱乐部系统\clubmanagement-master) |                                                              |
 | 032  | [springboot 个人博客管理系统](https://github.com/ynwynw/Springboot-Blog-public) | https://github.com/ynwynw/Springboot-Blog-public             |
-| 033  | [SpringBoot+vue的民宿预定管理系统](https://github.com/ynwynw/mingsu-public) | https://github.com/ynwynw/mingsu-public                      |
+| 033  | [SpringBoot+vue的民宿预定管理系统(源代码+数据库+7500字文档)](https://github.com/ynwynw/mingsu-public) | https://github.com/ynwynw/mingsu-public                      |
 | 034  | [springboot 疫情信息管理系统](https://github.com/ynwynw/CoronavirusManage-public) | https://github.com/ynwynw/CoronavirusManage-public           |
 | 035  | [springboot 微信公众号早安推送（情侣浪漫礼物）](https://github.com/ynwynw/weixinPush-public) | https://github.com/ynwynw/weixinPush-public                  |
 | 036  | [springboot+vue 校园疫情信息管理系统(源代码+数据库+11000字文档)](https://github.com/ynwynw/SchoolEpidemicManage-public) | https://github.com/ynwynw/SchoolEpidemicManage-public        |
