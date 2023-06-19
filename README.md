@@ -15,7 +15,7 @@
 | 007  | [springboot 个人博客系统](https://github.com/ynwynw/My-Blog-master-public) | https://github.com/ynwynw/My-Blog-master-public              |
 | 008  | [springboot +vue 宠物交易/租赁系统](https://github.com/ynwynw/pettrading-main-public) | https://github.com/ynwynw/pettrading-main-public             |
 | 009  | [springboot 宠物医院商城(11000字文档)](https://github.com/ynwynw/PetHospital-public) | https://github.com/ynwynw/-PetHospital-public                |
-| 010  | [springboot 花店商城系统(带文档)](https://github.com/ynwynw/SpringbootSchoolShop-public) | https://github.com/ynwynw/SpringbootSchoolShop-public        |
+| 010  | [springboot 花店商城系统(带2000字文档)](https://github.com/ynwynw/SpringbootSchoolShop-public) | https://github.com/ynwynw/SpringbootSchoolShop-public        |
 | 011  | [springboot景区旅游系统](https://github.com/ynwynw/travel)   | https://github.com/ynwynw/travel-public                      |
 | 012  | [springboot电影购票系统](https://github.com/ynwynw/Movie-Ticket-Purchasing-public) | https://github.com/ynwynw/Movie-Ticket-Purchasing-public     |
 | 013  | [springboot网上商城(12000字文档)](https://github.com/ynwynw/mall-public) | https://github.com/ynwynw/mall-public                        |
