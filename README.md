@@ -91,6 +91,9 @@
 | 083  | [基于springboot+vue的超市进销存管理系统(源代码+数据库+12000字论文)](https://github.com/ynwynw/supermarket3Public) | https://github.com/ynwynw/supermarket3Public                 |
 | 084  | [基于springboot+vue的房屋租赁出售系统(源代码+数据库+12000字论文)](https://github.com/ynwynw/houserentvue2Public) | https://github.com/ynwynw/houserentvue2Public                |
 | 085  | [基于springboot的微信小程序宠物领养医院系统(源代码+数据库+10000字论文)](https://github.com/ynwynw/petAdoptpublic) | https://github.com/ynwynw/petAdoptpublic                     |
+| 086  | [基于Springboot+Vue的宠物医院系统(源代码+数据库)](https://github.com/ynwynw/petHospitalPublic) | https://github.com/ynwynw/petHospitalPublic                  |
+| 087  | [基于Springboot的宠物店管理系统(源代码+数据库)](https://github.com/ynwynw/petShopPublic) | https://github.com/ynwynw/petShopPublic                      |
+| 088  | [基于Springboot+Vue的宠物店猫咖管理系统(源代码+数据库)](https://github.com/ynwynw/petShop2Public) | https://github.com/ynwynw/petShop2Public                     |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
