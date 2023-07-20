@@ -94,6 +94,8 @@
 | 086  | [基于Springboot+Vue的宠物医院系统(源代码+数据库)](https://github.com/ynwynw/petHospitalPublic) | https://github.com/ynwynw/petHospitalPublic                  |
 | 087  | [基于Springboot的宠物店管理系统(源代码+数据库)](https://github.com/ynwynw/petShopPublic) | https://github.com/ynwynw/petShopPublic                      |
 | 088  | [基于Springboot+Vue的宠物店猫咖管理系统(源代码+数据库)](https://github.com/ynwynw/petShop2Public) | https://github.com/ynwynw/petShop2Public                     |
+| 089  | [基于Springboot的健身房管理系统(源代码+数据库+万字论文)](https://github.com/ynwynw/gym2Public) | https://github.com/ynwynw/gym2Public                         |
+| 090  | [基于Springboot的小说阅读网站系统(源代码+数据库)](https://github.com/ynwynw/novelPublic) | https://github.com/ynwynw/novelPublic                        |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
