@@ -65,13 +65,13 @@
 | 057  | [基于Springboot+vue的电影购票系统(源代码+数据库)](https://github.com/ynwynw/movie-puchase2-public) | https://github.com/ynwynw/movie-puchase2-public              |
 | 058  | [基于Springboot+vue的汽车租赁系统(源代码+数据库)](https://github.com/ynwynw/carrental-vue-public) | https://github.com/ynwynw/carrental-vue-public               |
 | 059  | [基于Springboot+vue的美食分享系统(源代码+数据库+13000文档)](https://github.com/ynwynw/deliciousFoodPublic) | https://github.com/ynwynw/deliciousFoodPublic                |
-| 060  | [基于Springboot+vue的房屋维修系统(源代码+数据库+14000字文档)]() |                                                              |
+| 060  | [基于Springboot+vue的房屋维修系统(源代码+数据库+14000字论文)](https://github.com/ynwynw/repairPublic) | https://github.com/ynwynw/repairPublic                       |
 | 061  | [基于springboot小区物业系统(源代码+数据库)](https://github.com/ynwynw/propertyPublic) | https://github.com/ynwynw/propertyPublic                     |
 | 062  | [基于springboot+vue高校就业系统(源代码+数据库)](https://github.com/ynwynw/graduateEmploymentPublic) | https://github.com/ynwynw/graduateEmploymentPublic           |
 | 063  | [基于springboot快递代拿系统(源代码+数据库)](https://github.com/ynwynw/express-public) | https://github.com/ynwynw/express-public                     |
 | 064  | [基于springboot+vue房屋中介系统(源代码+数据库+14000字文档)](https://github.com/ynwynw/houseMediumPublic) | https://github.com/ynwynw/houseMediumPublic                  |
 | 065  | 基于springboot+vue高校文档系统(源代码+数据库+报告)           |                                                              |
-| 066  | 基于springboot+vue医院hrp系统(源代码+数据库+16000字报告)     |                                                              |
+| 066  | [基于springboot+vue医院hrp系统(源代码+数据库+16000字论文)](https://github.com/ynwynw/hospitalMaterialsPublic) | https://github.com/ynwynw/hospitalMaterialsPublic            |
 | 067  | [基于springboot+vue校园点餐(源代码+数据库)](https://github.com/ynwynw/orderFood2Public) | https://github.com/ynwynw/orderFood2Public                   |
 | 068  | [基于springboot+vue图书馆座位预约(源代码+数据库)](https://github.com/ynwynw/seatAppointPublic) | https://github.com/ynwynw/seatAppointPublic                  |
 | 069  | 基于springboot+vue小区物业(源代码+数据库)                    |                                                              |
