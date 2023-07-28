@@ -7,27 +7,27 @@
 | 序号 | 项目                                                         | github地址                                                   |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 001  | [springboot 电商书城](https://github.com/ynwynw/bookstore-master-public) | https://github.com/ynwynw/bookstore-master-public            |
-| 002  | [springboot酒店预订管理管理（10000字文档）](https://github.com/ynwynw/spring-boot-hotel-manager-public) | https://github.com/ynwynw/spring-boot-hotel-manager-public   |
+| 002  | [springboot酒店预订管理管理（10000字论文）](https://github.com/ynwynw/spring-boot-hotel-manager-public) | https://github.com/ynwynw/spring-boot-hotel-manager-public   |
 | 003  | [springboot 超市管理系统](https://github.com/ynwynw/springboot-thymeleaf-supermarket-system-master-public) | https://github.com/ynwynw/springboot-thymeleaf-supermarket-system-master-public |
 | 004  | [springboot+vue 超市管理系统](https://github.com/ynwynw/supermarket-vue-public) | https://github.com/ynwynw/supermarket-vue-public             |
 | 005  | [springboot 人事oa管理系统](https://github.com/ynwynw/oa-public) | https://github.com/ynwynw/oa-public                          |
 | 006  | [springboot 房屋租赁系统(15000字文档)](https://github.com/ynwynw/houserent-public) | https://github.com/ynwynw/houserent-public                   |
 | 007  | [springboot 个人博客系统](https://github.com/ynwynw/My-Blog-master-public) | https://github.com/ynwynw/My-Blog-master-public              |
 | 008  | [springboot +vue 宠物交易/租赁系统](https://github.com/ynwynw/pettrading-main-public) | https://github.com/ynwynw/pettrading-main-public             |
-| 009  | [springboot 宠物医院商城(11000字文档)](https://github.com/ynwynw/PetHospital-public) | https://github.com/ynwynw/-PetHospital-public                |
+| 009  | [springboot 宠物医院商城(11000字论文)](https://github.com/ynwynw/PetHospital-public) | https://github.com/ynwynw/PetHospital-public                 |
 | 010  | [springboot 花店商城系统(带2000字文档)](https://github.com/ynwynw/SpringbootSchoolShop-public) | https://github.com/ynwynw/SpringbootSchoolShop-public        |
 | 011  | [springboot景区旅游系统](https://github.com/ynwynw/travel)   | https://github.com/ynwynw/travel-public                      |
 | 012  | [springboot电影购票系统](https://github.com/ynwynw/Movie-Ticket-Purchasing-public) | https://github.com/ynwynw/Movie-Ticket-Purchasing-public     |
-| 013  | [springboot网上商城(12000字文档)](https://github.com/ynwynw/mall-public) | https://github.com/ynwynw/mall-public                        |
+| 013  | [springboot网上商城(12000字论文)](https://github.com/ynwynw/mall-public) | https://github.com/ynwynw/mall-public                        |
 | 014  | [springboot网上商城-仿小米](https://github.com/ynwynw/starsea-mall-public) | https://github.com/ynwynw/starsea-mall-public                |
-| 015  | [springboot网上商城-仿天猫](https://github.com/ynwynw/tmall-public) | https://github.com/ynwynw/tmall-public                       |
+| 015  | [springboot网上商城-仿天猫(源码+数据库+19000字论文)](https://github.com/ynwynw/tmall-public) | https://github.com/ynwynw/tmall-public                       |
 | 016  | [springboot+vue图书管理系统](https://github.com/ynwynw/bookManage-public) | https://github.com/ynwynw/bookManage-public                  |
 | 017  | [springboot+vue景区旅游系统](https://github.com/ynwynw/tourismvue-public) | https://github.com/ynwynw/tourismvue-public                  |
 | 018  | [springboot+vue 基于微信平台的教务管理系统]()                |                                                              |
 | 019  | [springboot 教务管理系统（带报告）](https://github.com/ynwynw/edumanage-public) | https://github.com/ynwynw/edumanage-public                   |
 | 020  | [springboot 教务管理系统](https://github.com/ynwynw/edumanage2-public) | https://github.com/ynwynw/edumanage2-public                  |
 | 021  | [springboot 仓库管理系统](https://github.com/ynwynw/wareHouse-public) | https://github.com/ynwynw/wareHouse-public                   |
-| 022  | [springboot 宿舍管理系统(源代码+数据库+7700字文档)](https://github.com/ynwynw/domitory-public) | https://github.com/ynwynw/domitory-public                    |
+| 022  | [springboot 宿舍管理系统(源代码+数据库+7700字论文)](https://github.com/ynwynw/domitory-public) | https://github.com/ynwynw/domitory-public                    |
 | 023  | [springboot 宿舍管理系统(功能简单)](E:/\educationProject\宿舍管理系统\dorm_system-master) |                                                              |
 | 024  | [springboot+vue 宿舍管理系统（功能简单）](E:/\educationProject\宿舍管理系统\vue\DormAdmin-master) |                                                              |
 | 025  | [springboot+vue 电影票会员管理系统 （有文档）](https://github.com/ynwynw/cinema-public) | https://github.com/ynwynw/cinema-public                      |
@@ -96,6 +96,8 @@
 | 088  | [基于Springboot+Vue的宠物店猫咖管理系统(源代码+数据库)](https://github.com/ynwynw/petShop2Public) | https://github.com/ynwynw/petShop2Public                     |
 | 089  | [基于Springboot的健身房管理系统(源代码+数据库+万字论文)](https://github.com/ynwynw/gym2Public) | https://github.com/ynwynw/gym2Public                         |
 | 090  | [基于Springboot的小说阅读网站系统(源代码+数据库)](https://github.com/ynwynw/novelPublic) | https://github.com/ynwynw/novelPublic                        |
+| 091  | [基于Springboot+Vue的宠物领养系统(源代码+数据库+14000字文档)](https://github.com/ynwynw/petAdopt2) | https://github.com/ynwynw/petAdopt2                          |
+| 092  | [基于Java+Springboot+Vue的民宿管理系统(源代码+数据库)](https://github.com/ynwynw/minsuPublic) | https://github.com/ynwynw/minsuPublic                        |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
@@ -118,11 +120,11 @@
 | 620  | ssm 房屋租赁管理系统 （简单）                                |                                                              |
 | 621  | [ssm+vue 公廉租房维保系统（源代码+数据库+10000字文档）](https://github.com/ynwynw/houseRepair-public) | https://github.com/ynwynw/houseRepair-public                 |
 | 622  | [ssm 高校就业系统（源代码+数据库）](https://github.com/ynwynw/graduateEmployssmPublic) | https://github.com/ynwynw/graduateEmployssmPublic            |
-| 623  | [ssm 智能停车场（源代码+数据库+11000字文档+ppt）](https://github.com/ynwynw/parkssmPublic) | https://github.com/ynwynw/parkssmPublic                      |
-| 624  | ssm超市管理系统（源代码+数据库）                             |                                                              |
-| 625  | ssm文物收藏（源代码+数据库+13000字文档）                     |                                                              |
-| 626  | [基于ssm+vue的医院门诊病历系统（源代码+数据库+11000字文档）](https://github.com/ynwynw/hospitalPublic) | https://github.com/ynwynw/hospitalPublic                     |
-| 627  | [ssm+vue民宿预订（源代码+数据库）](https://github.com/ynwynw/minsussmPublic) | https://github.com/ynwynw/minsussmPublic                     |
+| 623  | [Springboot/ssm 智能停车场（源代码+数据库+11000字文档+ppt）](https://github.com/ynwynw/parkssmPublic) | https://github.com/ynwynw/parkssmPublic                      |
+| 624  | Springboot/ssm超市管理系统（源代码+数据库）                  |                                                              |
+| 625  | Springboot/ssm文物收藏（源代码+数据库+13000字文档）          |                                                              |
+| 626  | [基于Springboot/ssm+vue的医院门诊病历系统（源代码+数据库+11000字文档）](https://github.com/ynwynw/hospitalPublic) | https://github.com/ynwynw/hospitalPublic                     |
+| 627  | [Springboot/ssm+vue民宿预订（源代码+数据库）](https://github.com/ynwynw/minsussmPublic) | https://github.com/ynwynw/minsussmPublic                     |
 | 628  | 首饰商城（源代码+数据库+带6000字报告）                       |                                                              |
 | 629  | [ssm大学生校园兼职（源代码+数据库）](https://github.com/ynwynw/moonlightingPublic) | https://github.com/ynwynw/moonlightingPublic                 |
 | 630  | [ssm网上花店(源代码+数据库+12000字文档+ppt)](https://github.com/ynwynw/flowerShopSsmPublic) | https://github.com/ynwynw/flowerShopSsmPublic                |
