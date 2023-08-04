@@ -96,7 +96,7 @@
 | 088  | [基于Springboot+Vue的宠物店猫咖管理系统(源代码+数据库)](https://github.com/ynwynw/petShop2Public) | https://github.com/ynwynw/petShop2Public                     |
 | 089  | [基于Springboot的健身房管理系统(源代码+数据库+万字论文)](https://github.com/ynwynw/gym2Public) | https://github.com/ynwynw/gym2Public                         |
 | 090  | [基于Springboot的小说阅读网站系统(源代码+数据库)](https://github.com/ynwynw/novelPublic) | https://github.com/ynwynw/novelPublic                        |
-| 091  | [基于Springboot+Vue的宠物领养系统(源代码+数据库+14000字文档)](https://github.com/ynwynw/petAdopt2) | https://github.com/ynwynw/petAdopt2                          |
+| 091  | [基于Springboot+Vue的宠物领养系统(源代码+数据库+14000字文档)](https://github.com/ynwynw/petAdopt2Public) | https://github.com/ynwynw/petAdopt2Public                    |
 | 092  | [基于Java+Springboot+Vue的民宿管理系统(源代码+数据库)](https://github.com/ynwynw/minsuPublic) | https://github.com/ynwynw/minsuPublic                        |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
@@ -132,4 +132,4 @@
 
 完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询
 
-接毕业设计和论文
+接毕业设计和论文 
