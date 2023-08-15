@@ -99,6 +99,7 @@
 | 091  | [基于Springboot+Vue的宠物领养系统(源代码+数据库+14000字文档)](https://github.com/ynwynw/petAdopt2Public) | https://github.com/ynwynw/petAdopt2Public                    |
 | 092  | [基于Java+Springboot+Vue的民宿管理系统(源代码+数据库)](https://github.com/ynwynw/minsuPublic) | https://github.com/ynwynw/minsuPublic                        |
 | 093  | [基于Java+Springboot+Vue的招聘系统(源码+数据库)](https://github.com/ynwynw/recruitPublic) | https://github.com/ynwynw/recruitPublic                      |
+| 094  | [基于Java+Springboot+Vue的人事管理系统(源码+数据库+8000字论文)](https://github.com/ynwynw/hrsystemPublic) | https://github.com/ynwynw/hrsystemPublic                     |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
