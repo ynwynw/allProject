@@ -102,6 +102,7 @@
 | 094  | [基于Java+Springboot+Vue的人事管理系统(源码+数据库+8000字论文)](https://github.com/ynwynw/hrsystemPublic) | https://github.com/ynwynw/hrsystemPublic                     |
 | 095  | [基于Java+Springboot+Vue的酒店管理系统(源码+数据库)](https://github.com/ynwynw/hotelManagePublic) | https://github.com/ynwynw/hotelManagePublic                  |
 | 096  | [基于Java+Springboot+Vue的在线教育系统(源码+数据库+18000字论文)](https://github.com/ynwynw/onlineEducationPublic) | https://github.com/ynwynw/onlineEducationPublic              |
+| 097  | [基于Java+Springboot+Vue+uniapp的医院挂号系统(源码+数据库)](https://github.com/ynwynw/hospitalRegisterPublic) | https://github.com/ynwynw/hospitalRegisterPublic             |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
