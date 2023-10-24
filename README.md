@@ -22,7 +22,7 @@
 | 014  | [springboot网上商城-仿小米](https://github.com/ynwynw/starsea-mall-public) | https://github.com/ynwynw/starsea-mall-public                |
 | 015  | [springboot网上商城-仿天猫(源码+数据库+19000字论文)](https://github.com/ynwynw/tmall-public) | https://github.com/ynwynw/tmall-public                       |
 | 016  | [springboot+vue图书管理系统](https://github.com/ynwynw/bookManage-public) | https://github.com/ynwynw/bookManage-public                  |
-| 017  | [springboot+vue景区旅游系统](https://github.com/ynwynw/tourismvue-public) | https://github.com/ynwynw/tourismvue-public                  |
+| 017  | [springboot+vue景区旅游系统(源码+数据库+9000字论文)](https://github.com/ynwynw/tourismvue-public) | https://github.com/ynwynw/tourismvue-public                  |
 | 018  | [springboot+vue 基于微信平台的教务管理系统]()                |                                                              |
 | 019  | [springboot 教务管理系统（带报告）](https://github.com/ynwynw/edumanage-public) | https://github.com/ynwynw/edumanage-public                   |
 | 020  | [springboot 教务管理系统](https://github.com/ynwynw/edumanage2-public) | https://github.com/ynwynw/edumanage2-public                  |
@@ -106,6 +106,7 @@
 | 098  | [基于Java+Springboot的在线教育课程视频(源码+数据库)](https://github.com/ynwynw/onlineCoursePublic) | https://github.com/ynwynw/onlineCoursePublic                 |
 | 099  | [基于Java+Springboot+Vue的在线智慧教育考试系统(源码+数据库)](https://github.com/ynwynw/onlineEducationExamPublic) | https://github.com/ynwynw/onlineEducationExamPublic          |
 | 100  | [基于Java+Springboot+Vue的WMS仓库管理系统+微信小程序(源码+数据库+部署视频)](https://github.com/ynwynw/wareManageSysPublic) | https://github.com/ynwynw/wareManageSysPublic                |
+| 101  | [基于Java+Springboot的电影购票微信小程序带后台管理(源码+数据库)](https://github.com/ynwynw/movieTicketPublic) | https://github.com/ynwynw/movieTicketPublic                  |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
