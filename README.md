@@ -99,7 +99,7 @@
 | 089  | [基于Springboot的健身房管理系统(源代码+数据库+万字论文)](https://github.com/ynwynw/gym2Public) | https://github.com/ynwynw/gym2Public                         |
 | 090  | [基于Springboot的小说阅读网站系统(源代码+数据库)](https://github.com/ynwynw/novelPublic) | https://github.com/ynwynw/novelPublic                        |
 | 091  | [基于Springboot+Vue的宠物领养系统(源代码+数据库+14000字论文)](https://github.com/ynwynw/petAdopt2Public) | https://github.com/ynwynw/petAdopt2Public                    |
-| 092  | [基于Java+Springboot+Vue的民宿管理系统(源代码+数据库)](https://github.com/ynwynw/minsuPublic) | https://github.com/ynwynw/minsuPublic                        |
+| 092  | [基于Java+Springboot+Vue的民宿管理系统(源代码+数据库+设计文档+报告)](https://github.com/ynwynw/minsuPublic) | https://github.com/ynwynw/minsuPublic                        |
 | 093  | [基于Java+Springboot+Vue的招聘系统(源码+数据库)](https://github.com/ynwynw/recruitPublic) | https://github.com/ynwynw/recruitPublic                      |
 | 094  | [基于Java+Springboot+Vue的人事管理系统(源码+数据库+8000字论文)](https://github.com/ynwynw/hrsystemPublic) | https://github.com/ynwynw/hrsystemPublic                     |
 | 095  | [基于Java+Springboot+Vue的酒店管理系统(源码+数据库)](https://github.com/ynwynw/hotelManagePublic) | https://github.com/ynwynw/hotelManagePublic                  |
@@ -112,7 +112,7 @@
 | 102  | [基于Java+Springboot+vue的个人理财管理系统(源码+数据库)](https://github.com/ynwynw/myacountPublic) | https://github.com/ynwynw/myacountPublic                     |
 | 103  | [基于Java+Springboot+vue的药店管理系统(源码+数据库)](https://github.com/ynwynw/drugManagePublic) | https://github.com/ynwynw/drugManagePublic                   |
 | 104  | [基于Java+Springboot+Vue的医院预约挂号小程序(源码+数据库)](https://github.com/ynwynw/hospitalRegistePublic) | https://github.com/ynwynw/hospitalRegistePublic              |
-| 105  | [基于Java+Springboot+Vue的校园跑腿系统(源码+数据库)](ttps://github.com/ynwynw/campusRunningPublic) | https://github.com/ynwynw/campusRunningPublich               |
+| 105  | [基于Java+Springboot+Vue的校园跑腿系统(源码+数据库+开发文档)](ttps://github.com/ynwynw/campusRunningPublic) | https://github.com/ynwynw/campusRunningPublich               |
 | 106  | [基于Java+Springboot的外卖系统(源码+数据库)](https://github.com/ynwynw/takeawayPublic) | https://github.com/ynwynw/takeawayPublic                     |
 | 107  | [基于Java+Springboot+Vue的民宿酒店预订管理系统(源码+数据库)](https://github.com/ynwynw/homestayHotelPublic) | https://github.com/ynwynw/homestayHotelPublic                |
 | 108  | [基于Java+Springboot的OA办公自动化人事管理系统(源码+数据库)](https://github.com/ynwynw/oaSystemPublic) | https://github.com/ynwynw/oaSystemPublic                     |
@@ -120,6 +120,8 @@
 | 110  | [基于Java+Springboot+Vue的房屋租赁系统小程序](https://github.com/ynwynw/houserentSysPublic) | https://github.com/ynwynw/houserentSysPublic                 |
 | 111  | [基于Java+Springboot+Vue的养老院管理系统(源码+数据库+12000字论文)]() | https://github.com/ynwynw/retirementManagePublichttps://github.com/ynwynw/retirementManagePublic |
 | 112  | [基于Java+Springboot+Vue的宠物领养社区小程序(源码+数据库)](https://github.com/ynwynw/petAdoptCommunityPublic) | https://github.com/ynwynw/petAdoptCommunityPublic            |
+| 113  | [基于Java+Springboot+Vue的体育馆预约系统(源代码+数据库+12000字论文)](https://github.com/ynwynw/gymSubscribePublic) | https://github.com/ynwynw/gymSubscribePublic                 |
+| 114  | [基于Java+Springboot+Vue的实验室预约系统(源代码+数据库+万字论文)](https://github.com/ynwynw/laboratoryPublic) | https://github.com/ynwynw/laboratoryPublic                   |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
