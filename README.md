@@ -126,6 +126,7 @@
 | 116  | [基于Java+Springboot+Vue的员工人事管理系统(源代码+数据库)](https://github.com/ynwynw/StaffManagerPublic) | https://github.com/ynwynw/StaffManagerPublic                 |
 | 117  | [基于Java+Springboot+Vue的校园二手商城管理系统(源代码+数据库+8000字论文+ppt)](https://github.com/ynwynw/secondhandtradingPublic) | https://github.com/ynwynw/secondhandtradingPublic            |
 | 118  | [基于Java+Springboot的宠物寄养管理系统(源代码+数据库)](https://github.com/ynwynw/petfostercarePublic) | https://github.com/ynwynw/petfostercarePublic                |
+| 119  | [基于Java+Springboot+vue的智能停车场管理系统(源代码+数据库+9000字论文)](https://github.com/ynwynw/smartparkingPublic) | https://github.com/ynwynw/smartparkingPublic                 |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
@@ -157,6 +158,7 @@
 | 629  | [ssm大学生校园兼职（源代码+数据库）](https://github.com/ynwynw/moonlightingPublic) | https://github.com/ynwynw/moonlightingPublic                 |
 | 630  | [ssm网上花店(源代码+数据库+12000字论文+ppt)](https://github.com/ynwynw/flowerShopSsmPublic) | https://github.com/ynwynw/flowerShopSsmPublic                |
 | 631  | 饮料商城（源代码+数据库+带6000字论文）                       |                                                              |
+| 632  | [基于Java+ssm的宠物店商城系统(源代码+数据库)](https://github.com/ynwynw/petShop3Public) | https://github.com/ynwynw/petShop3Public                     |
 
 ## 接毕业设计和论文
 
