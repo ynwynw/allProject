@@ -127,6 +127,8 @@
 | 117  | [基于Java+Springboot+Vue的校园二手商城管理系统(源代码+数据库+8000字论文+ppt)](https://github.com/ynwynw/secondhandtradingPublic) | https://github.com/ynwynw/secondhandtradingPublic            |
 | 118  | [基于Java+Springboot的宠物寄养管理系统(源代码+数据库)](https://github.com/ynwynw/petfostercarePublic) | https://github.com/ynwynw/petfostercarePublic                |
 | 119  | [基于Java+Springboot+vue的智能停车场管理系统(源代码+数据库+9000字论文)](https://github.com/ynwynw/smartparkingPublic) | https://github.com/ynwynw/smartparkingPublic                 |
+| 120  | [基于Java+Springboot+vue+uniapp的小程序商城管理系统(源代码+数据库+15000字论文)](https://github.com/ynwynw/weshopPublic) | https://github.com/ynwynw/weshopPublic                       |
+| 121  | [基于Java+Springboot的房屋租赁管理系统(源代码+数据库+9000字文档)](https://github.com/ynwynw/homerentPublic) | https://github.com/ynwynw/homerentPublic                     |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
