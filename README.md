@@ -131,6 +131,7 @@
 | 121  | [基于Java+Springboot的房屋租赁管理系统(源代码+数据库+9000字文档)](https://github.com/ynwynw/homerentPublic) | https://github.com/ynwynw/homerentPublic                     |
 | 122  | [基于Java+Springboot+Vue的摄影跟拍预订管理系统(源代码+数据库+万字论文+PPT)](https://github.com/ynwynw/photographyPublic) | https://github.com/ynwynw/photographyPublic                  |
 | 123  | [基于Java+Springboot+Vue的实验室预约管理系统(源代码+数据库+万字论文+PPT)](https://github.com/ynwynw/laboratoryAppointPublic) | https://github.com/ynwynw/laboratoryAppointPublic            |
+| 124  | [基于Java+Springboot的家庭个人理财管理系统(源代码+数据库+开题+ppt)](https://github.com/ynwynw/familyfinancialPublic) | https://github.com/ynwynw/familyfinancialPublic              |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
