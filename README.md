@@ -170,6 +170,7 @@
 | 630  | [ssm网上花店(源代码+数据库+12000字论文+ppt)](https://github.com/ynwynw/flowerShopSsmPublic) | https://github.com/ynwynw/flowerShopSsmPublic                |
 | 631  | 饮料商城（源代码+数据库+带6000字论文）                       |                                                              |
 | 632  | [基于Java+ssm的宠物店商城系统(源代码+数据库)](https://github.com/ynwynw/petShop3Public) | https://github.com/ynwynw/petShop3Public                     |
+| 633  | [基于Java+ssm的医院挂号系统(源代码+数据库+11000字论文+开题)](https://github.com/ynwynw/hospitalRegistssmPublic) | https://github.com/ynwynw/hospitalRegistssmPublic            |
 
 ## 接毕业设计和论文
 
