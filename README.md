@@ -147,6 +147,8 @@
 | 137  | [基于Java+Springboot+Vue的物流快递仓库管理系统(源代码+数据库)](https://github.com/ynwynw/logisticsExpressWarehousePublic) | https://github.com/ynwynw/logisticsExpressWarehousePublic    |
 | 138  | [基于Java+Springboot+Vue的医院预约挂号小程序(源代码+数据库)](https://github.com/ynwynw/hospitalRegister2Public) | https://github.com/ynwynw/hospitalRegister2Public            |
 | 139  | [基于Java+Springboot+Vue的农产品销售商城(源代码+数据库+万字论文)](https://github.com/ynwynw/agriculturalProductMallPullic) | https://github.com/ynwynw/agriculturalProductMallPullic      |
+| 140  | [基于Java+Springboot+Vue的景区旅游购票管理系统(源代码+数据库+8000字文档)](https://github.com/ynwynw/tourismvue3Public) | https://github.com/ynwynw/tourismvue3Public                  |
+| 141  | [基于Java+Springboot+Vue的物业管理系统(源代码+数据库)](https://github.com/ynwynw/estatevuePublic) | https://github.com/ynwynw/estatevuePublic                    |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
