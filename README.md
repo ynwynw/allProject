@@ -1,6 +1,6 @@
 ## 接毕业设计和论文
 
-### 作者QQ：931708230 微信：ynwwxid (支持修改、 部署调试、 支持代做毕设)
+### 作者QQ：931708230 微信：grapro666 (支持修改、 部署调试、 支持代做毕设)
 
 ### 接网站建设、小程序、H5、APP、各种系统等，单片机、嵌入式也可以做
 
@@ -149,6 +149,8 @@
 | 139  | [基于Java+Springboot+Vue的农产品销售商城(源代码+数据库+万字论文)](https://github.com/ynwynw/agriculturalProductMallPullic) | https://github.com/ynwynw/agriculturalProductMallPullic      |
 | 140  | [基于Java+Springboot+Vue的景区旅游购票管理系统(源代码+数据库+8000字文档)](https://github.com/ynwynw/tourismvue3Public) | https://github.com/ynwynw/tourismvue3Public                  |
 | 141  | [基于Java+Springboot+Vue的物业管理系统(源代码+数据库)](https://github.com/ynwynw/estatevuePublic) | https://github.com/ynwynw/estatevuePublic                    |
+| 142  | [基于Java+Springboot+Vue的汉服文化平台网站系统(源代码+数据库+万字论文)](https://github.com/ynwynw/hanfushopPublic) | https://github.com/ynwynw/hanfushopPublic                    |
+| 143  | [基于Java+Springboot+Vue的健身房管理系统(源代码+数据库+12000字论文)](https://github.com/ynwynw/gymManagePublic) | https://github.com/ynwynw/gymManagePublic                    |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
