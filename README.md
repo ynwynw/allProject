@@ -151,6 +151,8 @@
 | 141  | [基于Java+Springboot+Vue的物业管理系统(源代码+数据库)](https://github.com/ynwynw/estatevuePublic) | https://github.com/ynwynw/estatevuePublic                    |
 | 142  | [基于Java+Springboot+Vue的汉服文化平台网站系统(源代码+数据库+万字论文)](https://github.com/ynwynw/hanfushopPublic) | https://github.com/ynwynw/hanfushopPublic                    |
 | 143  | [基于Java+Springboot+Vue的健身房管理系统(源代码+数据库+12000字论文)](https://github.com/ynwynw/gymManagePublic) | https://github.com/ynwynw/gymManagePublic                    |
+| 144  | [基于Java+Springboot+Vue的商城小程序(源代码+数据库)](https://github.com/ynwynw/mallShopwxPublic) | https://github.com/ynwynw/mallShopwxPublic                   |
+| 145  | [基于Java+Springboot+vue+uniapp的驾校预约小程序(源代码+数据库+15000字论文)](https://github.com/ynwynw/drivingAppointPublic) | https://github.com/ynwynw/drivingAppointPublic               |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
