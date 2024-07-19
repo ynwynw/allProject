@@ -1,6 +1,6 @@
 ## 接毕业设计和论文
 
-### 作者QQ：931708230 微信：grapro666 (支持修改、 部署调试、 支持代做毕设)
+### 作者微信：grapro666  QQ：931708230  (支持修改、 部署调试、 支持代做毕设)
 
 ### 接网站建设、小程序、H5、APP、各种系统等，单片机、嵌入式也可以做
 
@@ -157,6 +157,7 @@
 | 147  | [基于Java+Springboot的手机维修管理系统(源代码+数据库)](https://github.com/ynwynw/mobileRepairSysPublic) | https://github.com/ynwynw/mobileRepairSysPublic              |
 | 148  | [基于Java+Springboot+vue的汽车维修管理系统(源代码+数据库+13000字论文)](https://github.com/ynwynw/carRepairSystemPublic) | https://github.com/ynwynw/carRepairSystemPublic              |
 | 149  | [基于Java+Springboot+vue的游戏论坛商城管理系统(源代码+数据库+11000字论文)](https://github.com/ynwynw/gameForumMallSysPublic) | https://github.com/ynwynw/gameForumMallSysPublic             |
+| 150  | [基于Java+Springboot+vue的体育运动品商城系统(源代码+数据库+12000字论文)](https://github.com/ynwynw/sportMallPublic) | https://github.com/ynwynw/sportMallPublic                    |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
@@ -190,9 +191,12 @@
 | 631  | 饮料商城（源代码+数据库+带6000字论文）                       |                                                              |
 | 632  | [基于Java+ssm的宠物店商城系统(源代码+数据库)](https://github.com/ynwynw/petShop3Public) | https://github.com/ynwynw/petShop3Public                     |
 | 633  | [基于Java+ssm的医院挂号系统(源代码+数据库+11000字论文+开题)](https://github.com/ynwynw/hospitalRegistssmPublic) | https://github.com/ynwynw/hospitalRegistssmPublic            |
+| 634  | [基于Java+SSM的校园快递物流管理系统(源代码+数据库+11000字论文)](https://github.com/ynwynw/schoolExpressPublic) | https://github.com/ynwynw/schoolExpressPublic                |
 
 ## 接毕业设计和论文
 
-### 作者QQ：931708230 微信：ynwwxid (支持修改、 部署调试、 支持代做毕设)
+### 作者微信：grapro666  QQ：931708230   (支持修改、 部署调试、 支持代做毕设)
 
-### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+### 接javaweb、python、小程序、H5、APP、各种管理系统、单片机、嵌入式等开发
+
+### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt
