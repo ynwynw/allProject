@@ -164,6 +164,8 @@
 | 154  | [基于Java+Springboot+vue的社团管理系统(源代码+数据库+9000字论文)](https://github.com/ynwynw/associationManagePublic) | https://github.com/ynwynw/associationManagePublic            |
 | 155  | [基于Java+Springboot+vue的课堂考勤管理系统(源代码+数据库+11000字论文)](https://github.com/ynwynw/classAttendancePublic) | https://github.com/ynwynw/classAttendancePublic              |
 | 156  | [基于Java+Springboot+vue的电子招投标管理系统(源代码+数据库+万字论文)](https://github.com/ynwynw/onlineBiddingPublic) | https://github.com/ynwynw/onlineBiddingPublic                |
+| 157  | [基于Java+Springboot+vue的粮食仓库管理系统(源代码+数据库+万字论文)](https://github.com/ynwynw/granarySystemPublic) | https://github.com/ynwynw/granarySystemPublic                |
+| 158  | [基于Java+Springboot的二手车交易管理系统(源代码+数据库+万字论文+ppt)](https://github.com/ynwynw/secondHandCarMallPublic) | https://github.com/ynwynw/secondHandCarMallPublic            |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
