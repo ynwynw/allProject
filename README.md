@@ -166,6 +166,7 @@
 | 156  | [基于Java+Springboot+vue的电子招投标管理系统(源代码+数据库+万字论文)](https://github.com/ynwynw/onlineBiddingPublic) | https://github.com/ynwynw/onlineBiddingPublic                |
 | 157  | [基于Java+Springboot+vue的粮食仓库管理系统(源代码+数据库+万字论文)](https://github.com/ynwynw/granarySystemPublic) | https://github.com/ynwynw/granarySystemPublic                |
 | 158  | [基于Java+Springboot的二手车交易管理系统(源代码+数据库+万字论文+ppt)](https://github.com/ynwynw/secondHandCarMallPublic) | https://github.com/ynwynw/secondHandCarMallPublic            |
+| 159  | [基于Java+Springboot+vue的幼儿园管理系统(源代码+数据库+万字论文+ppt)](https://github.com/ynwynw/kindergartenManagePublic) | https://github.com/ynwynw/kindergartenManagePublic           |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
@@ -200,6 +201,7 @@
 | 632  | [基于Java+ssm的宠物店商城系统(源代码+数据库)](https://github.com/ynwynw/petShop3Public) | https://github.com/ynwynw/petShop3Public                     |
 | 633  | [基于Java+ssm的医院挂号系统(源代码+数据库+11000字论文+开题)](https://github.com/ynwynw/hospitalRegistssmPublic) | https://github.com/ynwynw/hospitalRegistssmPublic            |
 | 634  | [基于Java+SSM的校园快递物流管理系统(源代码+数据库+11000字论文)](https://github.com/ynwynw/schoolExpressPublic) | https://github.com/ynwynw/schoolExpressPublic                |
+| 635  | [基于Java+ssm的仓库管理系统(源代码+数据库)](https://github.com/ynwynw/warehouseManagePublic) | https://github.com/ynwynw/warehouseManagePublic              |
 
 ## 接毕业设计和论文
 
