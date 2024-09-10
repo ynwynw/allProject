@@ -144,7 +144,7 @@
 | 134  | [基于Java+Springboot+Vue的社区医院管理系统(源代码+数据库+万字论文)](https://github.com/ynwynw/communityHospitalPublic) | https://github.com/ynwynw/communityHospitalPublic            |
 | 135  | [基于Java+Springboot+Vue的服装商城(源代码+数据库+万字论文)](https://github.com/ynwynw/clothesMallPublic) | https://github.com/ynwynw/clothesMallPublic                  |
 | 136  | [基于Java+Springboot+Vue的房屋租赁管理系统(源代码+数据库)](https://github.com/ynwynw/houserentvue4Public) | https://github.com/ynwynw/houserentvue4Public                |
-| 137  | [基于Java+Springboot+Vue的物流快递仓库管理系统(源代码+数据库)](https://github.com/ynwynw/logisticsExpressWarehousePublic) | https://github.com/ynwynw/logisticsExpressWarehousePublic    |
+| 137  | [基于Java+Springboot+Vue的物流快递仓库管理系统(源代码+数据库+万字论文))](https://github.com/ynwynw/logisticsExpressWarehousePublic) | https://github.com/ynwynw/logisticsExpressWarehousePublic    |
 | 138  | [基于Java+Springboot+Vue的医院预约挂号小程序(源代码+数据库)](https://github.com/ynwynw/hospitalRegister2Public) | https://github.com/ynwynw/hospitalRegister2Public            |
 | 139  | [基于Java+Springboot+Vue的农产品销售商城(源代码+数据库+万字论文)](https://github.com/ynwynw/agriculturalProductMallPullic) | https://github.com/ynwynw/agriculturalProductMallPullic      |
 | 140  | [基于Java+Springboot+Vue的景区旅游购票管理系统(源代码+数据库+8000字文档)](https://github.com/ynwynw/tourismvue3Public) | https://github.com/ynwynw/tourismvue3Public                  |
@@ -177,6 +177,8 @@
 | 167  | [基于Java+Springboot+vue3+小程序的物业管理系统小程序(源代码+数据库+万字论文+文献综述)](https://github.com/ynwynw/estateappPublic) | https://github.com/ynwynw/estateappPublic                    |
 | 168  | [基于Java+Springboot+vue3的高校就业管理系统(源代码+数据库+14000字论文+开题+PPT)](https://github.com/ynwynw/collegeEmploymentPublic) | https://github.com/ynwynw/collegeEmploymentPublic            |
 | 169  | [基于Java+Springboot+vue3的餐厅点餐管理系统(源代码+数据库)](https://github.com/ynwynw/onlineOrderPublic) | https://github.com/ynwynw/onlineOrderPublic                  |
+| 170  | [基于Java+Springboot+vue3+小程序的房屋租赁小程序系统(源代码+数据库)](https://github.com/ynwynw/houserentwxPublic) | https://github.com/ynwynw/houserentwxPublic                  |
+| 171  | [基于Java+Springboot+vue3+小程序的宠物店小程序系统(源代码+数据库)](https://github.com/ynwynw/petshopwxPublic) | https://github.com/ynwynw/petshopwxPublic                    |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
