@@ -197,6 +197,8 @@
 | 187  | [基于Java+Springboot+vue3的电动车销售管理系统(源代码+数据库)](https://github.com/ynwynw/electricVehicleMall) | https://github.com/ynwynw/electricVehicleMall                |
 | 188  | [基于Java+Springboot+vue的医院挂号小程序(源代码+数据库)](https://github.com/ynwynw/hospitalRegistrationAppletPublic) | https://github.com/ynwynw/hospitalRegistrationAppletPublic   |
 | 189  | [基于Java+Springboot+vue的自动售水机管理系统(源代码+数据库+13000字论文+任务书)](https://github.com/ynwynw/waterVendingManagePublic) | https://github.com/ynwynw/waterVendingManagePublic           |
+| 190  | [基于Java+Springboot+vue的景区旅游推荐管理系统(源代码+数据库+7000字论文)](https://github.com/ynwynw/travelRecommendPublic) | https://github.com/ynwynw/travelRecommendPublic              |
+| 191  | [基于Java+Springboot+vue的电子产品商城管理系统(源代码+数据库)](https://github.com/ynwynw/electronicProductMallPublic) | https://github.com/ynwynw/electronicProductMallPublic        |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
