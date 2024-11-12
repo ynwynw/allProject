@@ -205,6 +205,8 @@
 | 195  | [基于Java+Springboot+vue的会员商城管理系统(源代码+数据库)](https://github.com/ynwynw/shopPublic) | https://github.com/ynwynw/shopPublic                         |
 | 196  | [基于Java+Springboot+vue3的在线学习系统(源代码+数据库+开题+任务书)](https://github.com/ynwynw/onlineLearningPublic) | https://github.com/ynwynw/onlineLearningPublic               |
 | 197  | [基于Java+Springboot+vue的摄影预订管理系统(源代码+数据库)](https://github.com/ynwynw/photography2Public) | https://github.com/ynwynw/photography2Public                 |
+| 198  | [基于Java+Springboot+vue3的健身房管理系统](https://github.com/ynwynw/gymManage3Public) | https://github.com/ynwynw/gymManage3Public                   |
+| 199  | [基于Java+Springboot+vue3的会议室管理系统](https://github.com/ynwynw/mettingManagePublic) | https://github.com/ynwynw/mettingManagePublic                |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
