@@ -209,6 +209,8 @@
 | 199  | [基于Java+Springboot+vue3的会议室管理系统](https://github.com/ynwynw/mettingManagePublic) | https://github.com/ynwynw/mettingManagePublic                |
 | 200  | [基于Java+Springboot+vue3的招聘小程序(源代码+数据库)](https://github.com/ynwynw/recruitResumePublic) | https://github.com/ynwynw/recruitResumePublic                |
 | 201  | [基于Java+Springboot+vue3的高校人员管理系统(源代码+数据库)](https://github.com/ynwynw/schoolPersonnelPublic) | https://github.com/ynwynw/schoolPersonnelPublic              |
+| 202  | [基于Java+Springboot+vue的物流管理系统(源代码+数据库+万字论文)](https://github.com/ynwynw/logisticsManagePublic) | https://github.com/ynwynw/logisticsManagePublic              |
+| 203  | [基于Java+Springboot+vue3的美容院管理系统(源代码+数据库+12000字论文)](https://github.com/ynwynw/beautySalonSysPublic) | https://github.com/ynwynw/beautySalonSysPublic               |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
