@@ -215,6 +215,8 @@
 | 205  | [基于Java+Springboot+vue3的民宿酒店管理系统(源代码+数据库)](https://github.com/ynwynw/homestayHotel2Public) | https://github.com/ynwynw/homestayHotel2Public               |
 | 206  | [基于Java+Springboot+vue3的云南特产推广系统(源代码+数据库)](https://github.com/ynwynw/specialLocalProductPublic) | https://github.com/ynwynw/specialLocalProductPublic          |
 | 207  | [基于Java+Springboot+vue3的运动健康小程序系统(源代码+数据库+万字论文)](https://github.com/ynwynw/sportsRecordPublic) | https://github.com/ynwynw/sportsRecordPublic                 |
+| 208  | [基于Java+Springboot的物流管理系统(源代码+数据库+万字论文+开题)](https://github.com/ynwynw/logisticsManage2Public) | https://github.com/ynwynw/logisticsManage2Public             |
+| 209  | [基于Java+Springboot+vue3的助农平台系统(源代码+数据库)](https://github.com/ynwynw/agriculturalAssistancePlatformPublic) | https://github.com/ynwynw/agriculturalAssistancePlatformPublic |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
