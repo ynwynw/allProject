@@ -227,6 +227,8 @@
 | 217  | [基于python+Django+vue的房屋租赁系统(源代码+数据库+万字论文)](https://github.com/ynwynw/houserentPythonPublic) | https://github.com/ynwynw/houserentPythonPublic              |
 | 218  | [基于Java+Springboot+vue的考试报名管理系统(源代码+数据库+万字论文+PPT)](https://github.com/ynwynw/registrationSystemPublic) | https://github.com/ynwynw/registrationSystemPublic           |
 | 219  | [基于python+Django+vue的房屋租赁系统(源代码+数据库+万字论文)](https://github.com/ynwynw/houserentPython2Public) | https://github.com/ynwynw/houserentPython2Public             |
+| 220  | [基于Java+Springboot+vue3的在线花店系统(源代码+数据库+12000字论文+开题+任务书)](https://github.com/ynwynw/flowerShop2Public) | https://github.com/ynwynw/flowerShop2Public                  |
+| 221  | [基于Java+Springboot+vue3的超市管理系统(源代码+数据库+8600字论文)](https://github.com/ynwynw/supermarket4Public) | https://github.com/ynwynw/supermarket4Public                 |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
