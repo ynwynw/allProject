@@ -247,6 +247,8 @@
 | 237  | [基于Java+Springboot+vue的二手书交易系统(源代码+数据库+11000字论文+ppt)](https://github.com/ynwynw/secondhandBook) | https://github.com/ynwynw/secondhandBook                     |
 | 238  | [基于Java+Springboot+vue的演唱会门票预订系统(源代码+数据库)](https://github.com/ynwynw/musicTicket) | https://github.com/ynwynw/musicTicket                        |
 | 239  | [基于Java+Springboot+vue的演唱会门票预订系统(源代码+数据库)](https://github.com/ynwynw/teachingEvaluationSystem) | https://github.com/ynwynw/teachingEvaluationSystem           |
+| 240  | [基于python+爬虫+html的微博舆情数据可视化系统(源代码+数据库)](https://github.com/ynwynw/weiboPublicOpinion) | https://github.com/ynwynw/weiboPublicOpinion                 |
+| 241  | [基于Java+Springboot+vue的爱心公益服务系统(源代码+数据库+11000字文档)](https://github.com/ynwynw/loveCharity) | https://github.com/ynwynw/loveCharity                        |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
