@@ -251,6 +251,8 @@
 | 241  | [基于Java+Springboot+vue的爱心公益服务系统(源代码+数据库+11000字论文)](https://github.com/ynwynw/loveCharity) | https://github.com/ynwynw/loveCharity                        |
 | 242  | [基于Java+Springboot+vue3的古诗词文化交流系统带AI对话(源代码+数据库+万字论文)](https://github.com/ynwynw/poetryCultureExchange) | https://github.com/ynwynw/poetryCultureExchange              |
 | 243  | [基于Java+Springboot+vue3+小程序的老年人健康管理小程序(源代码+数据库)](https://github.com/ynwynw/elderlyHealthManage) | https://github.com/ynwynw/elderlyHealthManage                |
+| 244  | [基于Java+Springboot+vue+AI智能的宠物之家系统(源代码+数据库+2万字论文+任务书)](https://github.com/ynwynw/petFamily) | https://github.com/ynwynw/petFamily                          |
+| 245  | [基于Java+Springboot+vue的外卖点餐系统(源代码+数据库+19000字论文+ppt)](https://github.com/ynwynw/orderFood3) | https://github.com/ynwynw/orderFood3                         |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
