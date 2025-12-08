@@ -71,13 +71,13 @@
 | 061  | [基于springboot小区物业系统(源代码+数据库)](https://github.com/ynwynw/propertyPublic) | https://github.com/ynwynw/propertyPublic                     |
 | 062  | [基于springboot+vue高校就业系统(源代码+数据库)](https://github.com/ynwynw/graduateEmploymentPublic) | https://github.com/ynwynw/graduateEmploymentPublic           |
 | 063  | [基于springboot快递代拿系统(源代码+数据库)](https://github.com/ynwynw/express-public) | https://github.com/ynwynw/express-public                     |
-| 064  | [基于springboot+vue房屋中介系统(源代码+数据库+14000字论文)](https://github.com/ynwynw/houseMediumPublic) | https://github.com/ynwynw/houseMediumPublic                  |
+| 064  | [基于springboot+vue房屋中介系统(源代码+数据库+任务书+14000字论文)](https://github.com/ynwynw/houseMediumPublic) | https://github.com/ynwynw/houseMediumPublic                  |
 | 065  | 基于springboot+vue高校文档系统(源代码+数据库+报告)           |                                                              |
 | 066  | [基于springboot+vue医院hrp系统(源代码+数据库+16000字论文)](https://github.com/ynwynw/hospitalMaterialsPublic) | https://github.com/ynwynw/hospitalMaterialsPublic            |
 | 067  | [基于springboot+vue校园点餐(源代码+数据库)](https://github.com/ynwynw/orderFood2Public) | https://github.com/ynwynw/orderFood2Public                   |
 | 068  | [基于springboot+vue图书馆座位预约(源代码+数据库)](https://github.com/ynwynw/seatAppointPublic) | https://github.com/ynwynw/seatAppointPublic                  |
 | 069  | 基于springboot+vue小区物业(源代码+数据库)                    |                                                              |
-| 070  | [基于springboot+vue的心理咨询系统(源代码+数据库+13000字论文)](https://github.com/ynwynw/psychlolgyCounselPublic) | https://github.com/ynwynw/psychlolgyCounselPublic            |
+| 070  | [基于springboot+vue的心理咨询系统(源代码+数据库+开题+任务书+13000字论文+ppt)](https://github.com/ynwynw/psychlolgyCounselPublic) | https://github.com/ynwynw/psychlolgyCounselPublic            |
 | 071  | [基于springboot+vue的房屋租赁系统(源代码+数据库+14000字论文+开题任务书)](https://github.com/ynwynw/houserentVuePublic) | https://github.com/ynwynw/houserentVuePublic                 |
 | 072  | [基于springboot+vue的酒店预订管理系统(源代码+数据库+11000字论文+开题)](https://github.com/ynwynw/hotelVuePublic) | https://github.com/ynwynw/hotelVuePublic                     |
 | 073  | 基于springboot+vue的网上商城 (源代码+数据库)可改为任意产品的商城 |                                                              |
@@ -257,6 +257,8 @@
 | 247  | [基于Java+Springboot+vue3的农村随访系统(源代码+数据库)](https://github.com/ynwynw/ruralFollowUp) | https://github.com/ynwynw/ruralFollowUp                      |
 | 248  | [基于Java+Springboot+vue的博物馆系统(源代码+数据库+开发文档)](https://github.com/ynwynw/museum) | https://github.com/ynwynw/museum                             |
 | 249  | [基于Java+Springboot+vue3的点餐系统(源代码+数据库+开题报告+任务书+11000字论文)](https://github.com/ynwynw/orderFood4) | https://github.com/ynwynw/orderFood4                         |
+| 250  | [基于Java+Springboot+vue3+协同过滤推荐算法的学习平台(源代码+数据库)](https://github.com/ynwynw/studyExams) | https://github.com/ynwynw/studyExams                         |
+| 251  | [基于Java+Springboot+vue3的海底捞客户管理系统(源代码+数据库+开题+任务书)](https://github.com/ynwynw/haidilaoCustomerManage) | https://github.com/ynwynw/haidilaoCustomerManage             |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
