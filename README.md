@@ -263,6 +263,8 @@
 | 253  | [基于Java+Springboot+vue3+协同过滤推荐算法的传统服饰文化平台(源代码+数据库+任务书+12000字论文)](https://github.com/ynwynw/traditionalClothing) | https://github.com/ynwynw/traditionalClothing                |
 | 254  | [基于Java+Springboot+vue的动物园系统(源代码+数据库+万字论文)](https://github.com/ynwynw/wildAnimal) | https://github.com/ynwynw/wildAnimal                         |
 | 255  | [基于Java+Springboot+vue3的暑期学生实习打卡系统(源代码+数据库)](https://github.com/ynwynw/internshipCheckIn) | https://github.com/ynwynw/internshipCheckIn                  |
+| 256  | [基于Java+Springboot+vue的校园跑腿小程序(源代码+数据库)](https://github.com/ynwynw/runErrands) | https://github.com/ynwynw/runErrands                         |
+| 257  | [基于Java+Springboot+vue3的高校招投标系统(源代码+数据库+开题)](https://github.com/ynwynw/universityBidding) | https://github.com/ynwynw/universityBidding                  |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
