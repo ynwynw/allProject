@@ -16,7 +16,7 @@
 | 006  | [springboot 房屋租赁系统(15000字文档)](https://github.com/ynwynw/houserent-public) | https://github.com/ynwynw/houserent-public                   |
 | 007  | [springboot 个人博客系统(源码+数据库+9000字论文)](https://github.com/ynwynw/My-Blog-master-public) | https://github.com/ynwynw/My-Blog-master-public              |
 | 008  | [springboot +vue 宠物交易/租赁系统](https://github.com/ynwynw/pettrading-main-public) | https://github.com/ynwynw/pettrading-main-public             |
-| 009  | [springboot 宠物医院商城(11000字论文)](https://github.com/ynwynw/PetHospital-public) | https://github.com/ynwynw/PetHospital-public                 |
+| 009  | [基于springboot的宠物医院商城带ai问诊(开题+13000字论文)](https://github.com/ynwynw/PetHospital-public) | https://github.com/ynwynw/PetHospital-public                 |
 | 010  | [springboot 花店商城系统(带2000字文档)](https://github.com/ynwynw/SpringbootSchoolShop-public) | https://github.com/ynwynw/SpringbootSchoolShop-public        |
 | 011  | [springboot景区旅游系统](https://github.com/ynwynw/travel)   | https://github.com/ynwynw/travel-public                      |
 | 012  | [springboot电影购票系统](https://github.com/ynwynw/Movie-Ticket-Purchasing-public) | https://github.com/ynwynw/Movie-Ticket-Purchasing-public     |
@@ -89,11 +89,11 @@
 | 079  | [基于springboot+vue的在线考试系统(源代码+数据库+7700字论文)](https://github.com/ynwynw/examOnlinePublic) | https://github.com/ynwynw/examOnlinePublic                   |
 | 080  | [基于Springboot+Vue的高校二手交易系统(源代码+数据库)](https://github.com/ynwynw/CollegeSecondPublic) | https://github.com/ynwynw/CollegeSecondPublic                |
 | 081  | [基于springboot+vue的小米商城(源代码+数据库)](https://github.com/ynwynw/mall2Public) | https://github.com/ynwynw/mall2Public                        |
-| 082  | [基于springboot+vue的文物收藏系统(源代码+数据库+13000字论文)](https://github.com/ynwynw/culturalPublic) | https://github.com/ynwynw/culturalPublic                     |
+| 082  | [基于springboot/ssm+vue的文物收藏系统(源代码+数据库+开题+任务书+13000字论文)](https://github.com/ynwynw/culturalPublic) | https://github.com/ynwynw/culturalPublic                     |
 | 083  | [基于springboot+vue的超市进销存管理系统(源代码+数据库+12000字论文)](https://github.com/ynwynw/supermarket3Public) | https://github.com/ynwynw/supermarket3Public                 |
 | 084  | [基于springboot+vue的房屋租赁出售系统(源代码+数据库+12000字论文)](https://github.com/ynwynw/houserentvue2Public) | https://github.com/ynwynw/houserentvue2Public                |
 | 085  | [基于springboot的微信小程序宠物领养医院系统(源代码+数据库+万字论文+开题)](https://github.com/ynwynw/petAdoptpublic) | https://github.com/ynwynw/petAdoptpublic                     |
-| 086  | [基于Springboot+Vue的宠物医院系统(源代码+数据库+17000字论文+开题)](https://github.com/ynwynw/petHospitalPublic) | https://github.com/ynwynw/petHospitalPublic                  |
+| 086  | [基于Springboot+Vue+ai问诊的宠物医院系统(源代码+数据库+17000字论文+开题)](https://github.com/ynwynw/petHospitalPublic) | https://github.com/ynwynw/petHospitalPublic                  |
 | 087  | [基于Springboot的宠物店管理系统(源代码+数据库+15000字论文+开题任务书)](https://github.com/ynwynw/petShopPublic) | https://github.com/ynwynw/petShopPublic                      |
 | 088  | [基于Springboot+Vue的宠物店猫咖管理系统(源代码+数据库+11000字论文)](https://github.com/ynwynw/petShop2Public) | https://github.com/ynwynw/petShop2Public                     |
 | 089  | [基于Springboot的健身房管理系统(源代码+数据库+万字论文)](https://github.com/ynwynw/gym2Public) | https://github.com/ynwynw/gym2Public                         |
@@ -246,7 +246,7 @@
 | 236  | [基于Java+Springboot+vue3的智慧出行系统(源代码+数据库)](https://github.com/ynwynw/smartMobility) | https://github.com/ynwynw/smartMobility                      |
 | 237  | [基于Java+Springboot+vue的二手书交易系统(源代码+数据库+11000字论文+ppt)](https://github.com/ynwynw/secondhandBook) | https://github.com/ynwynw/secondhandBook                     |
 | 238  | [基于Java+Springboot+vue的演唱会门票预订系统(源代码+数据库)](https://github.com/ynwynw/musicTicket) | https://github.com/ynwynw/musicTicket                        |
-| 239  | [基于Java+Springboot+vue的演唱会门票预订系统(源代码+数据库)](https://github.com/ynwynw/teachingEvaluationSystem) | https://github.com/ynwynw/teachingEvaluationSystem           |
+| 239  | [基于Java+Springboot+vue的教学评价系统(源代码+数据库)](https://github.com/ynwynw/teachingEvaluationSystem) | https://github.com/ynwynw/teachingEvaluationSystem           |
 | 240  | [基于python+爬虫+html的微博舆情数据可视化系统(源代码+数据库)](https://github.com/ynwynw/weiboPublicOpinion) | https://github.com/ynwynw/weiboPublicOpinion                 |
 | 241  | [基于Java+Springboot+vue的爱心公益服务系统(源代码+数据库+11000字论文)](https://github.com/ynwynw/loveCharity) | https://github.com/ynwynw/loveCharity                        |
 | 242  | [基于Java+Springboot+vue3的古诗词文化交流系统带AI对话(源代码+数据库+万字论文)](https://github.com/ynwynw/poetryCultureExchange) | https://github.com/ynwynw/poetryCultureExchange              |
@@ -267,6 +267,8 @@
 | 257  | [基于Java+Springboot+vue3的高校招投标系统(源代码+数据库+开题)](https://github.com/ynwynw/universityBidding) | https://github.com/ynwynw/universityBidding                  |
 | 258  | [基于Java+Springboot+vue的在线学习系统(源代码+数据库+万字论文)](https://github.com/ynwynw/onlineLearning2) | https://github.com/ynwynw/onlineLearning2                    |
 | 259  | [基于Java+Springboot+vue3工单管理系统的设计与实现(源代码+数据库+开题报告)](https://github.com/ynwynw/workOrderManage) | https://github.com/ynwynw/workOrderManage                    |
+| 260  | [基于Springboot+Vue3+Ai对话的非遗传承管理系统(源代码+数据库+2万字论文)](https://github.com/ynwynw/intangibleCulturalHeritage) | https://github.com/ynwynw/intangibleCulturalHeritage         |
+| 261  | [基于Springboot+vue3+小程序的社区医院人员和药品管理系统(源代码+数据库+开题+任务书+12000字论文)](https://github.com/ynwynw/hospitalManage) | https://github.com/ynwynw/hospitalManage                     |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
