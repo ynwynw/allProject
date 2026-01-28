@@ -269,6 +269,8 @@
 | 259  | [基于Java+Springboot+vue3工单管理系统的设计与实现(源代码+数据库+开题报告)](https://github.com/ynwynw/workOrderManage) | https://github.com/ynwynw/workOrderManage                    |
 | 260  | [基于Springboot+Vue3+Ai对话的非遗传承管理系统(源代码+数据库+2万字论文)](https://github.com/ynwynw/intangibleCulturalHeritage) | https://github.com/ynwynw/intangibleCulturalHeritage         |
 | 261  | [基于Springboot+vue3+小程序的社区医院人员和药品管理系统(源代码+数据库+开题+任务书+12000字论文)](https://github.com/ynwynw/hospitalManage) | https://github.com/ynwynw/hospitalManage                     |
+| 262  | [基于Springboot+Vue3+Ai对话的图书馆图书借阅系统(源代码+数据库+开题+PPT)](https://github.com/ynwynw/bookManager3) | https://github.com/ynwynw/bookManager3                       |
+| 263  | [基于Springboot+Vue的影视推荐和评分系统(源代码+数据库)](https://github.com/ynwynw/movieRecommend) | https://github.com/ynwynw/movieRecommend                     |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
