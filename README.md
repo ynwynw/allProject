@@ -273,6 +273,8 @@
 | 263  | [基于Springboot+Vue的影视推荐和评分系统(源代码+数据库)](https://github.com/ynwynw/movieRecommend) | https://github.com/ynwynw/movieRecommend                     |
 | 264  | [基于Springboot+Vue3+协同过滤的房屋租赁管理系统(源代码+数据库+万字论文+设计文档)](https://github.com/ynwynw/houserent5) | https://github.com/ynwynw/houserent5                         |
 | 265  | [基于Springboot+vue3的新能源充电桩管理系统(源代码+数据库+开题)](https://github.com/ynwynw/carParkApp) | https://github.com/ynwynw/carParkApp                         |
+| 266  | [基于Springboot+Vue3的共享单车管理系统(源代码+数据库)](https://github.com/ynwynw/sharedBikeManage2) | https://github.com/ynwynw/sharedBikeManage2                  |
+| 267  | [基于Springboot+vue3+小程序的医院挂号系统(源代码+数据库)](https://github.com/ynwynw/hospitalRegistrationApplet2) | https://github.com/ynwynw/hospitalRegistrationApplet2        |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
