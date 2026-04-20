@@ -277,6 +277,8 @@
 | 267  | [基于Springboot+vue3+小程序的医院挂号系统(源代码+数据库)](https://github.com/ynwynw/hospitalRegistrationApplet2) | https://github.com/ynwynw/hospitalRegistrationApplet2        |
 | 268  | [基于Springboot+Vue的教务管理系统(源代码+数据库)](https://github.com/ynwynw/universityEducation) | https://github.com/ynwynw/universityEducation                |
 | 269  | [基于python+深度学习+YOLOV8的交通标志识别系统(源代码+数据库+报告)](https://github.com/ynwynw/trafficSignDetection) | https://github.com/ynwynw/trafficSignDetection               |
+| 270  | [基于Springboot+Vue的wms仓库管理系统(源代码+数据库)](https://github.com/ynwynw/warehouse2) | https://github.com/ynwynw/warehouse2                         |
+| 271  | [基于python+深度学习+YOLOV7的车牌识别系统(源代码+数据库+3万字论文)](https://github.com/ynwynw/licensePlateRecognition) | https://github.com/ynwynw/licensePlateRecognition            |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
