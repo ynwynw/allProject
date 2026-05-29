@@ -281,6 +281,8 @@
 | 271  | [基于python+深度学习+YOLOV7的车牌识别系统(源代码+数据库+3万字论文)](https://github.com/ynwynw/licensePlateRecognition) | https://github.com/ynwynw/licensePlateRecognition            |
 | 272  | [基于Springboot+vue+小程序的旧物回收系统(源代码+数据库+开题+任务书+13000字论文+答辩ppt)](https://github.com/ynwynw/oldClothesRecycling) | https://github.com/ynwynw/oldClothesRecycling                |
 | 273  | [基于SpringBoot+Vue3停车场管理系统带支沙箱支付(源代码+数据库)](https://github.com/ynwynw/carParkApp) | https://github.com/ynwynw/carParkApp                         |
+| 274  | [基于深度学习的中医舌象智能识别与健康管理系统(源代码+数据库+12000字论文)](https://github.com/ynwynw/tongueImageHealthAdvice) | https://github.com/ynwynw/tongueImageHealthAdvice            |
+| 275  | [基于Springboot+Vue3的校医院预约挂号管理系统(源代码+数据库)](https://github.com/ynwynw/schoolHospital) | https://github.com/ynwynw/schoolHospital                     |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
