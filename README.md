@@ -289,6 +289,8 @@
 | 279  | [基于SpringBoot+Vue3校园商户意见反馈系统(源代码+数据库+17000字论文+ppt)](https://github.com/ynwynw/campusMerchantsFeedback) | https://github.com/ynwynw/campusMerchantsFeedback            |
 | 280  | [基于SpringBoot+Vue3摄影分享预约系统带小程序(源代码+数据库+13000字论文+ppt)](https://github.com/ynwynw/photographySharing) | https://github.com/ynwynw/photographySharing                 |
 | 281  | [基于Springcloud+Vue3的校园电子产品维修与配件电商平台带小程序(源代码+数据库)](https://github.com/ynwynw/schoolRepairMall) | https://github.com/ynwynw/schoolRepairMall                   |
+| 282  | [基于SpringBoot+Vue3房屋租赁系统(源代码+数据库)](https://github.com/ynwynw/houserent6) | https://github.com/ynwynw/houserent6                         |
+| 283  | [基于SpringBoot+Vue3学生社团智能推荐系统带协同过滤算法(源代码+数据库+设计文档+万字论文+ppt)](https://github.com/ynwynw/associationManage4) | https://github.com/ynwynw/associationManage4                 |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/carRental-public                   |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/ynwynw/pms-public) | https://github.com/ynwynw/pms-public                         |
